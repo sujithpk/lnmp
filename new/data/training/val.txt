@@ -1,0 +1,2 @@
+/home/sujithpk/Desktop/lanedet/data/our_dataset/training/gt_image/1294.png /home/sujithpk/Desktop/lanedet/data/our_dataset/training/gt_binary_image/1294.png /home/sujithpk/Desktop/lanedet/data/our_dataset/training/gt_instance_image/1294.png
+/home/sujithpk/Desktop/lanedet/data/our_dataset/training/gt_image/0614.png /home/sujithpk/Desktop/lanedet/data/our_dataset/training/gt_binary_image/0614.png /home/sujithpk/Desktop/lanedet/data/our_dataset/training/gt_instance_image/0614.png
